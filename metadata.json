@@ -1,0 +1,5 @@
+{
+  "name": "Portfolio de Projets",
+  "description": "Une application web de portfolio simple pour présenter des projets, avec une page d'administration pour la gestion de contenu.",
+  "requestFramePermissions": []
+}
